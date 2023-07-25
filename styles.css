@@ -1,0 +1,70 @@
+.title{
+    background-image: url("images/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.title h1{
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+}
+
+.inside-box{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inside-bg{
+    background-color: lightblue;
+    opacity: 80%;
+    border-radius: 50%;
+    color: midnightblue;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    width: 700px;
+}
+
+.title-text{
+    color: midnightblue;
+}
+
+body{
+    background-color: #07385f;
+    color: #d3f2f8;
+    font-family: 'Lora', serif;
+}
+
+.picture .edits{
+    display: flex;
+    justify-content: center;
+}
+
+.my_pic{
+    border-radius: 50%;
+    height: 200px;
+}
+
+.boxes, .lists{
+    background-color: #d3f2f8;
+    color:#07385f;
+}
+
+.lists div a{
+    color: #07385f;
+}
+
+.insta-image, .resume>.container>.row>.next>.boxes{
+    box-shadow: 0 0 20px #d3f2f8; 
+}
+
+.insta-image{
+    width: 80%;
+}
+
+.past-work>.container{
+    box-shadow: 0 0 40px #d3f2f8; 
+}
