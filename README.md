@@ -29,8 +29,8 @@ Navigate through the sections to explore different aspects of my profile and wor
 * Bootstrap: Enhancing the design and responsiveness of the website.
 
 ## **Credits**
-Background images sourced from Unsplash.
-Fonts from Google Fonts: Lobster, Lora, Playfair Display.
+Background images sourced from Unsplash.<br />
+Fonts from Google Fonts: Lobster, Lora, Playfair Display.<br />
 
 ## **Contact Information**
 Feel free to connect with me:<br />
