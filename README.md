@@ -33,7 +33,7 @@ Background images sourced from Unsplash.
 Fonts from Google Fonts: Lobster, Lora, Playfair Display.
 
 ## **Contact Information**
-Feel free to connect with me:
-LinkedIn: Ankita E. Ajay
-GitHub: ankitaea
-Email: ankitaea123@gmail.com
+Feel free to connect with me:<br />
+LinkedIn: Ankita E. Ajay<br />
+GitHub: ankitaea<br />
+Email: ankitaea123@gmail.com<br />
